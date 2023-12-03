@@ -1,4 +1,4 @@
-package sdf.task01;
+package sdf;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -100,7 +100,7 @@ public class Main {
             br.close();
 
         }
-        System.out.printf("\nTotal lines in file: %d\n", lines);
+        System.out.printf("\nTotal lines in file: %d\n", lines - 1);
 
     }
 }

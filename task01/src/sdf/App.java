@@ -1,4 +1,4 @@
-package sdf.task01;
+package sdf;
 
 public class App {
     
